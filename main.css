@@ -1,0 +1,21 @@
+.logo {
+    max-width: 40vw;
+    height: 10vh;
+}
+
+.banner-img {
+    height: 80vh;
+}
+
+.icon-img {
+    border-radius: 50%;
+    margin-top: 8%;
+}
+
+.about {
+    margin-top: 8%;
+}
+
+.services{
+    margin-top: 8%;
+}
